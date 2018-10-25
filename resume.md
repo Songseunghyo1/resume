@@ -117,8 +117,12 @@
     * 하나의 앱으로 여러 온라인 쇼핑몰의 상품상태 확인(재고, 판매수량 등)
   * 개발기간
     * 2017.07 ~ 2018.06
+  * 개발환경
+    * Win10
+    * Webstorm
   * 사용언어 및 기술
-    * React Native <br>
+    * React Native
+    * React Navigation <br>
 
 <br>
 
