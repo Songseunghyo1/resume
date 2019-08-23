@@ -1,5 +1,6 @@
 ## 송승효
 
+* (주) 아이티아이즈
 * Email: tmdgy15@gmail.com
 * GitHub: https://github.com/Songseunghyo1 <br>
 
