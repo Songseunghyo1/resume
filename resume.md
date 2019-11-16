@@ -96,7 +96,7 @@
 
 ## My Interests
 
-![myInterests](./my_tech.PNG)
+![myInterests](./my_tech2.PNG)
 
 ## <a id="projectdetail">Project Detail
 
