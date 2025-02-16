@@ -2,14 +2,15 @@
   "name": "resume",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://aerain.github.io/resume",
+  "homepage": "https://songseunghyo1.github.io/resume",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.7.0",
-    "react-scripts": "^3.4.1"
+    "react-script": "^2.0.5",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
