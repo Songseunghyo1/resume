@@ -1,11 +1,15 @@
-import logo from '../logo.svg';
+import React, { Fragment } from 'react'
 import '../styles/App.css';
+import Profile from './Profile';
+import config from '../config';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello, World!</h1>
-    </div>
+    <Fragment>
+      <Profile 
+        {...config.profile}
+      />
+    </Fragment>
   );
 }
 
