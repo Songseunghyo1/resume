@@ -1,4 +1,7 @@
-import Profile from './Profile';
 import App from './App';
+import Profile from './Profile';
+import Skill from './Skill';
+import Career from './Career';
+import Education from './Education';
 
-export { App, Profile };
+export { App, Profile, Skill, Career, Education };
